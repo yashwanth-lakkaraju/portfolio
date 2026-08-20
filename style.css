@@ -307,7 +307,7 @@ nav {
 .hero-photo-img {
   width: 300px;
   height: 380px;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center 80%;
   border-radius: 200px 200px 160px 160px;
   position: relative;
